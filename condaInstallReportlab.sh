@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-/usr/bin/anaconda/bin/conda install -c conda-forge reportlab
+sudo /usr/bin/anaconda/bin/conda install --yes -c conda-forge reportlab
